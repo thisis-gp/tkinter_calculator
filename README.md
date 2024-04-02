@@ -20,17 +20,17 @@ A simple calculator application developed using Python's Tkinter library. The ca
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/calculator-tkinter.git
+    git clone https://github.com/thisis-gp/tkinter_calculator
     ```
    
 2. Navigate to the project directory:
     ```bash
-    cd calculator-tkinter
+    cd tkinter_calculator
     ```
 
 3. Run the calculator:
     ```bash
-    python calculator.py
+    python calc.py
     ```
 
 ## Usage
